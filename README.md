@@ -30,7 +30,7 @@ A native macOS application for re-signing iOS IPA files with new provisioning pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/IPASigner.git
+git clone https://github.com/sidhantchadha/IPASigner.git
 cd IPASigner
 ```
 
@@ -48,7 +48,7 @@ open IPASigner.xcodeproj
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/IPASigner.git
+git clone https://github.com/sidhantchadha/IPASigner.git
 cd IPASigner
 
 # Build the project
